@@ -1,2 +1,3 @@
 # Sistema-de-Engenharia-de-Dados-da-F-rmula-1-com-Databricks-e-GenAI
 Sistema de Engenharia de Dados da Fórmula 1 com Databricks e GenAI
+<p align="center"> <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white"/> <img src="https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16"/> <img src="https://img.shields.io/badge/Delta_Lake-000000?style=for-the-badge&logo=delta&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/> </p>
